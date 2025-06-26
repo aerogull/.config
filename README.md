@@ -26,3 +26,6 @@ go-notify-git\
 java-gnome\
 gjs\
 lua-lgi-git
+
+
+The experimental branch is an unstable version of the main branch with a bunch of testing programs. It might break if used.
